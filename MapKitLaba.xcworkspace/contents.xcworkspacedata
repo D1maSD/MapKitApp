@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../HTML/coreDataTop/subclass/Note+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:UserProfile+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MapKitLaba/System/CoreData/UserProfile+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../HTML/coreDataTop/UserProfile+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/melnikdmitrij/Desktop/MapKitLab/MapKitLaba/System/CoreData/UserProfile+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MapKitLaba.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "230118083728-01-new-kids-on-the-block-file-restricted.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "230118083728-01-new-kids-on-the-block-file-restricted-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "230118083728-01-new-kids-on-the-block-file-restricted-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

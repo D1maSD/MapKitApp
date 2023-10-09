@@ -1,0 +1,20 @@
+PODS:
+  - LIHImageSlider (1.0.8)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - LIHImageSlider
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - LIHImageSlider
+    - SnapKit
+
+SPEC CHECKSUMS:
+  LIHImageSlider: ddf90c3a07e6f571b0e57629177a49eaf5bf15a3
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 78aa52fa1ea73754a130584c2c44fb2636cc9853
+
+COCOAPODS: 1.8.4

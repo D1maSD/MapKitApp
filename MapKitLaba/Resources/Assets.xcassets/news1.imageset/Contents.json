@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "230117124449-greenland-ice-sheet-aug-2022.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "230117124449-greenland-ice-sheet-aug-2023.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "230117124449-greenland-ice-sheet-aug-2024.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
