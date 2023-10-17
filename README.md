@@ -1,5 +1,5 @@
 # MapKitApp
-This app I do to understaind VIPER architecture. Main point of this app is improve my skills as a developer, when I work with real projects. This app was build on VIPER architecture and include a 5 university laboratory work. I learn methodical material and started work with this project. I wanna tell more about this 5 apps, collected to this one, named MapKitApp.
+This app I do to understand VIPER architecture. Main point of this app is improve my skills as a developer, when I work with real projects. This app was build on VIPER architecture and include a 5 university laboratory work. I learn methodical material and started work with this project. I wanna tell more about this 5 apps, collected to this one, named MapKitApp.
 - Map app
 - Player app
 - Shedule app
